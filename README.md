@@ -1,4 +1,4 @@
-Shows weather data using darksky.net
+Show weather data using darksky.net
 # Files
 1. License.csv
   - Store the API key for this application
