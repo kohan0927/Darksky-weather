@@ -1,8 +1,7 @@
 Show weather data using darksky.net
 # Files
 1. License.csv
-  - Store the API key for this application
-  - Please use your own API key to run this application
+  - Please use an valid API key to run this application
 
 2. City_List.csv
   - Store Latitude and Longitude values of different cities
