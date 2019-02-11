@@ -1,15 +1,16 @@
-License.csv
-1. Store the API key for this application
-2. Please use your own API key to run this application
+# Introduction
+1. License.csv
+  - Store the API key for this application
+  - Please use your own API key to run this application
 
-City_List.csv
-Store Latitude and Longitude values of different cities
+2. City_List.csv
+  - Store Latitude and Longitude values of different cities
 
-thread.py
-1. Continuously update the current time every second
-2. Continuously update Today's weather status every 30 mins
-3. Continuously update Tomorrow's forecast report and save it every 1 hour
-4. Continuously save Yesterday's weather record everyday at 1AM
+3. thread.py
+  - Continuously update the current time every second
+  - Continuously update Today's weather status every 30 mins
+  - Continuously update Tomorrow's forecast report and save it every 1 hour
+  - Continuously save Yesterday's weather record everyday at 1AM
 
 timemachine_request.py
 1. TimeMachine Request module is used.
