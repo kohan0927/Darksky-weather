@@ -1,5 +1,5 @@
 # system modules
-from forecastiopy import *
+from forecastiopy import ForecastIO, FIODaily, FIOHourly
 import os
 import re
 import sys
