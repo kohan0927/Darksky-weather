@@ -1,3 +1,4 @@
+Shows weather data using darksky.net
 # Files
 1. License.csv
   - Store the API key for this application
@@ -20,7 +21,7 @@
   - TodayWeather function is to update Today's weather
   - TomorrowWeather function is to update Tomorrow's forecast and save it to a CSV file
   - YesterdayWeather function is to update Yesterday's record and save it to a CSV file
-  - All CSV files will be saved corresponding to the selected city
+  - All CSV files will be saved corresponding to the selected city 
 
 # Folders
 1. Files
