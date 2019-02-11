@@ -1,4 +1,4 @@
-# Introduction
+# Files
 1. License.csv
   - Store the API key for this application
   - Please use your own API key to run this application
@@ -22,5 +22,12 @@
   - YesterdayWeather function is to update Yesterday's record and save it to a CSV file
   - All CSV files will be saved corresponding to the selected city
 
+# Folders
+1. Files
+  - Store all CSV files in corresponding to selected city
+
+2. OperationLog
+  - Store all operation log txt files
+  
 # NOTE
 The main mission is to compare daily weather with forecast and reality record, so when saving the Yesterday record, it is necessary that the date of yesterady's CSV file has already existed. That is, the existing CSV file is created by TomorrowWeather function first, and then the YesterdayWeather function can save the history record into the existing file.
