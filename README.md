@@ -30,4 +30,4 @@ Show weather data using darksky.net
   - Store all operation log txt files
   
 # NOTE
-The main mission is to compare daily weather with forecast and history record, so when saving the Yesterday record, it is necessary that the date of yesterady's CSV file has already existed. That is, the existing CSV file is created by TomorrowWeather function first, and then the YesterdayWeather function can save the history record into the existing file.
+The main mission is to compare daily weather with forecast and history record, so when saving the Yesterday record, it is necessary that the date of yesterady's CSV file has already existed. That is, the existing CSV file is created by TomorrowWeather function first, and then the YesterdayWeather function can save the history record into that existing file.
